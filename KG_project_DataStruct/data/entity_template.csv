@@ -1,0 +1,6 @@
+id,name,labels,properties
+1,数据结构,学科|核心,"{""description"": ""计算机科学的基础课程"", ""credits"": 4}"
+2,线性表,知识点,"{""importance"": ""high""}"
+3,栈与队列,知识点,"{""importance"": ""medium""}"
+4,链表,知识点,"{""type"": ""基础结构""}"
+5,顺序表,知识点,"{""type"": ""基础结构""}"

@@ -1,0 +1,4 @@
+Flask==3.0.0          # Web 框架，用于构建后端 API
+neo4j==5.14.1         # Neo4j 数据库驱动，用于连接和操作 Neo4j 图数据库
+python-dotenv==1.0.0  # 用于加载 .env 文件中的环境变量
+flask-cors==4.0.0     # 处理跨域资源共享 (CORS)，允许前端访问后端 API
